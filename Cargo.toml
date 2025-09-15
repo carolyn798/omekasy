@@ -12,3 +12,4 @@ description = "𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙡𝙞𝙣𝙚 𝙖𝙥𝙥𝙡�
 # drop an unused branch
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
