@@ -26,3 +26,4 @@ description = "𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙡𝙞𝙣𝙚 𝙖𝙥𝙥𝙡�
 # handle the edge case from the last release
 # drop an unused branch
 # guard against empty input
+# handle the edge case from the last release
