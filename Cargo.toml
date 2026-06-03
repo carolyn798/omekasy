@@ -27,3 +27,4 @@ description = "𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙡𝙞𝙣𝙚 𝙖𝙥𝙥𝙡�
 # drop an unused branch
 # guard against empty input
 # handle the edge case from the last release
+# avoid re-reading the config on every call
