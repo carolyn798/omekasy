@@ -29,3 +29,4 @@ description = "𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙡𝙞𝙣𝙚 𝙖𝙥𝙥𝙡�
 # handle the edge case from the last release
 # avoid re-reading the config on every call
 # clarify the control flow
+# match the style used in the rest of the module
